@@ -26,3 +26,4 @@ if(a_to_vk)
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
 protected_links = "kandangfiles.wapka.mobi,vcd-minang.club,goo.gl,adreactor.com,tubedown.nextwapblog.com,google.com";
+auto_safelink();
